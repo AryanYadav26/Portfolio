@@ -1,6 +1,6 @@
 <h2 align="center">
   Aryan Yadav - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+  <a href="https://aryanyadav26.vercel.app/" target="_blank">Aryan Yadav</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
